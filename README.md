@@ -1,5 +1,7 @@
-CryptoClustering
-NU Bootcamp Module 19
+## CryptoClustering
+
+## NU Bootcamp Module 19
+___________________________________________________________________________
 In this challenge, you’ll use your knowledge of Python and unsupervised learning to predict if cryptocurrencies are affected by 24-hour or 7-day price changes.
 
 Instructions Load the crypto_market_data.csv into a DataFrame.
@@ -22,7 +24,7 @@ Initialize the K-means model with the best value for k. Fit the K-means model us
 
 Retrieve the explained variance to determine how much information can be attributed to each principal component and then answer the following question in your notebook:
 
-What is the total explained variance of the three principal components? Create a new DataFrame with the PCA data and set the "coin_id" index from the original DataFrame as the index for the new DataFrame.
+## What is the total explained variance of the three principal components? Create a new DataFrame with the PCA data and set the "coin_id" index from the original DataFrame as the index for the new DataFrame.
 
 The first five rows of the PCA DataFrame should appear as follows:
 
